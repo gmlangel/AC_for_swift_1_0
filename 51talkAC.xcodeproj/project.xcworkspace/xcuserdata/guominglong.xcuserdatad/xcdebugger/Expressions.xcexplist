@@ -1,0 +1,2192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "AC_for_swift.LoginView.drawRect (AC_for_swift.LoginView)(C.CGRect) -&gt; ():LoginView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.window">
+            </PersistentString>
+            <PersistentString
+               value = "self.subviews">
+            </PersistentString>
+            <PersistentString
+               value = "self.frame.width">
+            </PersistentString>
+            <PersistentString
+               value = "self.layer?.cornerRadius">
+            </PersistentString>
+            <PersistentString
+               value = "self.window?.contentViewController">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.ClassList_qingdan.(fillinPanel in _6E7A8FDC9D043333A56DCAD3EE9077DE) (AC_for_swift.ClassList_qingdan)() -&gt; ():ClassList_qingdan.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cos.getStartTime()">
+            </PersistentString>
+            <PersistentString
+               value = "NSString(string: cos.getStartTime())">
+            </PersistentString>
+            <PersistentString
+               value = "cos">
+            </PersistentString>
+            <PersistentString
+               value = "stT.substringWithRange(tempRange)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.ClassListView.onMenuBtnClick (AC_for_swift.ClassListView)(ObjectiveC.NSButton) -&gt; ():ClassListView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentMenuBtnName">
+            </PersistentString>
+            <PersistentString
+               value = "classlistInfo.size()">
+            </PersistentString>
+            <PersistentString
+               value = "sender.identifier">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[GlobelInfo init]:GlobelInfo.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.logpath">
+            </PersistentString>
+            <PersistentString
+               value = "[[NSFileManager defaultManager] fileExistsAtPath:documentsDirectory isDirectory:False]">
+            </PersistentString>
+            <PersistentString
+               value = "logsDic">
+            </PersistentString>
+            <PersistentString
+               value = "self.appVersion">
+            </PersistentString>
+            <PersistentString
+               value = "self.CustomAppConfigDic">
+            </PersistentString>
+            <PersistentString
+               value = "recodeDic">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.onLoginFaild(NSNotification) -&gt; ():LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "info.getReason()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WhiteBoardView.mouseDown(NSEvent) -&gt; ():PdfView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "frameX">
+            </PersistentString>
+            <PersistentString
+               value = "beginY">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MediaView.startMedia(Course) -&gt; ():MediaView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "audioRecodePath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.ClassList_qingdan.(jiexishujv in _6E7A8FDC9D043333A56DCAD3EE9077DE) (AC_for_swift.ClassList_qingdan)(Swift.AnyObject) -&gt; ():ClassList_qingdan.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "itemOpen.course_pic">
+            </PersistentString>
+            <PersistentString
+               value = "itemOpen">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ClassListPage.onCourseCallback(NSNotification) -&gt; ():ClassListPage.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "AcuaSDK.ACService().RoleType()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ClassListView.onMenuBtnClick(NSButton) -&gt; ():ClassListView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "classlistInfo">
+            </PersistentString>
+            <PersistentString
+               value = "classPage_qiangdan">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.AcMain.windowDidLoad (AC_for_swift.AcMain)() -&gt; ():AcMain.swift">
+      </ContextState>
+      <ContextState
+         contextName = "MediaView.(mediaSession in _6827C5359A6B4EEDBD6923EFF48A2B68).getter:MediaView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "_classSession">
+            </PersistentString>
+            <PersistentString
+               value = "MediaEngine.SDK()">
+            </PersistentString>
+            <PersistentString
+               value = "_classSession.ClassId()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.LoginViewController.onLoginFaild (AC_for_swift.LoginViewController)(ObjectiveC.NSNotification) -&gt; ():LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "info.getReasonCode()">
+            </PersistentString>
+            <PersistentString
+               value = "notify.object">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.LoginViewController.onLoginState (AC_for_swift.LoginViewController)(ObjectiveC.NSNotification) -&gt; ():LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "needUpdate">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WhiteBoardView.mouseMoved(NSEvent) -&gt; ():PdfView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "mouseY">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.WhiteBoardLayer.drawInContext (AC_for_swift.WhiteBoardLayer)(ObjectiveC.CGContext) -&gt; ():WhiteBoardLayer.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.shadowPath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.testuploadlog() -&gt; ():LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "GlobelInfo.getInstance().loginName">
+            </PersistentString>
+            <PersistentString
+               value = "GlobelInfo.getInstance()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.ClassListPage.viewDidAppear (AC_for_swift.ClassListPage)() -&gt; ():ClassListPage.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view.frame.size">
+            </PersistentString>
+            <PersistentString
+               value = "self.view.window?.contentMinSize">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.ChatItem.loadImg (AC_for_swift.ChatItem)(ObjectiveC.NSString, weizhui : ObjectiveC.NSString) -&gt; ():ChatItem.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "path">
+            </PersistentString>
+            <PersistentString
+               value = "GlobelInfo.getInstance().imageLoadPath">
+            </PersistentString>
+            <PersistentString
+               value = "contentBmp?.image">
+            </PersistentString>
+            <PersistentString
+               value = "str.substringWithRange(NSMakeRange(0, 1))+&quot;/&quot; + str.substringWithRange(NSMakeRange(1, 2)) + &quot;/&quot; + str+weizhui">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PdfView.fillPdf(AnyObject, type : String, pageID : UInt16) -&gt; ():PdfView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "n.integerValue">
+            </PersistentString>
+            <PersistentString
+               value = "currentPageId">
+            </PersistentString>
+            <PersistentString
+               value = "sourcePDFSize">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.ClassListView.fillInfo (AC_for_swift.ClassListView)(Swift.AnyObject) -&gt; ():ClassListView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "contentView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.MediaView.(mediaSession in _F7586859B2812A8E6D3FAEB475086E0A).getter : ObjectiveC.MediaSession:MediaView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "_classSession">
+            </PersistentString>
+            <PersistentString
+               value = "MediaEngine.SDK()">
+            </PersistentString>
+            <PersistentString
+               value = "_classSession.ClassId()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChangyongyuView.drawRect(CGRect) -&gt; ():ChangyongyuView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "p[0] as NSPoint">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MainWindow performClose:]:MainWindow.m">
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.ChatItem.(func1 in _F8B91F083753CBE16320CB144F21A42B) (AC_for_swift.ChatItem)(Swift.String) -&gt; ():ChatItem.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "contentBmp?.hidden">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UserItem.fillInfo(ClassUser) -&gt; ():UserListPanel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "userID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.HeaderView.drawRect (AC_for_swift.HeaderView)(C.CGRect) -&gt; ():HeaderView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.ClassListView.(gettb in _1F64DF0525169AC1961A5BD40AEF960C) (AC_for_swift.ClassListView)(Swift.String, _rect : C.CGRect) -&gt; ObjectiveC.NSTextField:ClassListView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tb.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AdminCMDManager.encodeAdminCmd(String) -&gt; String:AdminCMDManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "b">
+            </PersistentString>
+            <PersistentString
+               value = "String(data:tbodyND, encoding: NSUTF8StringEncoding)!">
+            </PersistentString>
+            <PersistentString
+               value = "th.stringByAppendingString(result)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.WhiteBoardLayer.(getPoints in _97335413DAFBA2EE7AB5788F526D7861) (AC_for_swift.WhiteBoardLayer)(Swift.Array&lt;C.CGPoint&gt;, scaleX : CoreGraphics.CGFloat, scaleY : CoreGraphics.CGFloat) -&gt; Swift.Array&lt;C.CGPoint&gt;:WhiteBoardLayer.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSMakePoint(sourcePs[i].x * scaleX, sourcePs[i].y * scaleY)">
+            </PersistentString>
+            <PersistentString
+               value = "resultPoints[i]">
+            </PersistentString>
+            <PersistentString
+               value = "sourcePs[i].x">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WhiteBoardTextFieldView.greset() -&gt; ():WhiteBoardTextField.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.frame.origin.y">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WhiteBoardView.init(frame : CGRect) -&gt; WhiteBoardView:PdfView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.trackingAreas">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.OneToOneClassRoom.viewWillAppear (AC_for_swift.OneToOneClassRoom)() -&gt; ():OneToOneClassRoom.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "mainView">
+            </PersistentString>
+            <PersistentString
+               value = "GlobelInfo.getInstance().currentCourse">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.WhiteBoardLayer.getDrawInfo (AC_for_swift.WhiteBoardLayer)(Swift.Int8, data : ObjectiveC.NSData, index : Swift.Int32, cx : CoreGraphics.CGFloat, cy : CoreGraphics.CGFloat) -&gt; AC_for_swift.DrawInfo:WhiteBoardLayer.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "CGFloat(dataToInt16(data, gposition: index))">
+            </PersistentString>
+            <PersistentString
+               value = "tempRange">
+            </PersistentString>
+            <PersistentString
+               value = "String(index).toInt()! + String(len).toInt()!">
+            </PersistentString>
+            <PersistentString
+               value = "NSMakeRange(String(index).toInt()!, String(len*2).toInt()!);">
+            </PersistentString>
+            <PersistentString
+               value = "String(index).toInt()!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WhiteBoardTextField.drawRect(CGRect) -&gt; ():WhiteBoardTextField.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.bounds">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.LoginView.init (AC_for_swift.LoginView.Type)(coder : ObjectiveC.NSCoder) -&gt; Swift.Optional&lt;AC_for_swift.LoginView&gt;:LoginView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "lab_title">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.ClassListPage.(goprePage (AC_for_swift.ClassListPage) -&gt; () -&gt; ()).(gComplete #1) (())():ClassListPage.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "loginControl.view">
+            </PersistentString>
+            <PersistentString
+               value = "loginControl.view.window">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ClassListView.fillInfo(CourseVector, needRefrush : Bool) -&gt; ():ClassListView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "arr.size()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.MediaView.sendMsg (AC_for_swift.MediaView)(Swift.String, option : Swift.String) -&gt; ():MediaView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSDate(timeIntervalSinceReferenceDate: NSDate().timeIntervalSinceReferenceDate)">
+            </PersistentString>
+            <PersistentString
+               value = "NSDate(string: &quot;2014-03-01 11:20:03 CST&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AcMain.uploadLog() -&gt; ():AcMain.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "GlobelInfo.getInstance().logpath">
+            </PersistentString>
+            <PersistentString
+               value = "GlobelInfo.getInstance().logsDic">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.ClassListPage.onCourseCallback (AC_for_swift.ClassListPage)(ObjectiveC.NSNotification) -&gt; ():ClassListPage.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cos.GetString(&quot;serverTime&quot;, defaultValue: &quot;2015-01-01 00:00:00&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WhiteBoardTextField.textDidChange(NSNotification) -&gt; ():WhiteBoardTextField.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.bounds.size.width">
+            </PersistentString>
+            <PersistentString
+               value = "self.cell?.cellSizeForBounds(self.bounds)">
+            </PersistentString>
+            <PersistentString
+               value = "self.cell?.cellSize.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChangyongyuTableList.tableView(NSTableView, dataCellForTableColumn : NSTableColumn?, row : Int) -&gt; NSCell?:ChangyongyuView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tableColumn">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OneToOneRoomView.drawRect(CGRect) -&gt; ():OneToOneRoomView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "canvas == nil">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.OneToOneClassRoom.viewDidAppear (AC_for_swift.OneToOneClassRoom)() -&gt; ():OneToOneClassRoom.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view.frame.size.width">
+            </PersistentString>
+            <PersistentString
+               value = "self.view">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.viewWillAppear() -&gt; ():LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view.window?.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MediaView.course.setter:MediaView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sessionID">
+            </PersistentString>
+            <PersistentString
+               value = "AcuaSDK.UserAgent()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WhiteBoardView.goback() -&gt; ():PdfView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "arr.size()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WhiteBoardView.endTextFieldAndWaitDraw() -&gt; ():PdfView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tbView.frame.origin.y">
+            </PersistentString>
+            <PersistentString
+               value = "tempPoint">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OneToOneRoomView.socketCallBackMSG(NSString, nickName : String) -&gt; ():OneToOneRoomView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "socketText">
+            </PersistentString>
+            <PersistentString
+               value = "resultData[&quot;content&quot;]?.valueForKey(&quot;emoteMD5&quot;) as! String">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.OneToOneRoomView.fillInfo (AC_for_swift.OneToOneRoomView)(ObjectiveC.Course) -&gt; ():OneToOneRoomView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cg.integerValue">
+            </PersistentString>
+            <PersistentString
+               value = "pdfReader?.totalPages">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OneToOneRoomView.changePDFPage(NSNotification) -&gt; ():OneToOneRoomView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(notify.object as! NSNumber).unsignedShortValue">
+            </PersistentString>
+            <PersistentString
+               value = "serverPageID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.uploadCrash() -&gt; ():LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view.window">
+            </PersistentString>
+            <PersistentString
+               value = "currentCrashPath">
+            </PersistentString>
+            <PersistentString
+               value = "(self.view.window as! MainWindow).crashLogs">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.LoginViewController.viewDidAppear (AC_for_swift.LoginViewController)() -&gt; ():LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view.window">
+            </PersistentString>
+            <PersistentString
+               value = "self.view.bounds.size">
+            </PersistentString>
+            <PersistentString
+               value = "NSMakeRect(515,ty,self.view.frame.size.width,self.view.frame.size.height)">
+            </PersistentString>
+            <PersistentString
+               value = "self.view">
+            </PersistentString>
+            <PersistentString
+               value = "self.view.window?.contentMinSize">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ClassListPage.viewDidAppear() -&gt; ():ClassListPage.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(win.titlebar as! NSView).superview">
+            </PersistentString>
+            <PersistentString
+               value = "win.contentView?.superview">
+            </PersistentString>
+            <PersistentString
+               value = "win.contentView == nil">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "umcs::UmcsMediaWriter::recordInit(char const*):UmcsMediaWriter.cpp">
+      </ContextState>
+      <ContextState
+         contextName = "MediaView.(createMedinSessionInfo in _6827C5359A6B4EEDBD6923EFF48A2B68)() -&gt; MediaSessionInfo:MediaView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "me.getRole()">
+            </PersistentString>
+            <PersistentString
+               value = "_classSession.ClassId()">
+            </PersistentString>
+            <PersistentString
+               value = " _classSession.Me().getRole()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.ClassList_qingdan.onjoinRoom (AC_for_swift.ClassList_qingdan)(Swift.AnyObject) -&gt; ():ClassList_qingdan.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "InstanceManager.instance().getModuleInstaceByName(&quot;stroyClassList&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ClassList_qingdan.(fillinPanel in _6E7A8FDC9D043333A56DCAD3EE9077DE)() -&gt; ():ClassList_qingdan.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cos.getCourseId()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "FrameBtn.mouseDown(NSEvent) -&gt; ():FrameBtn.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "downfunc">
+            </PersistentString>
+            <PersistentString
+               value = "isSelected">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UpdateController.setUpdateTishi(NSNotification) -&gt; ():UpdateController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentURL">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MainWindow frameRectForContentRect:]:MainWindow.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "na.rect">
+            </PersistentString>
+            <PersistentString
+               value = "[closebtn superview]">
+            </PersistentString>
+            <PersistentString
+               value = "titlebar.superview.trackingAreas[0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OneToOneClassRoom.(uploadExitRoomLog(OneToOneClassRoom) -&gt; () -&gt; ()).(onComplete #1)(NSURLResponse?, nd : NSData?, err : NSError?) -&gt; ():OneToOneClassRoom.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSString(data: nd, encoding: NSUTF8StringEncoding)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.LoadingView.changeCurrentSource (AC_for_swift.LoadingView)() -&gt; ():LoadingView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentIdx">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WhiteBoardTextField.resignTextField(NSNotification) -&gt; ():WhiteBoardTextField.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.superview?.frame.origin.y">
+            </PersistentString>
+            <PersistentString
+               value = "self.superView">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ClassListView.lunbo() -&gt; ():ClassListView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "binnerPaths.count - 1">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "specialized AdminCMDManager.encodeAdminCmd(String) -&gt; String:AdminCMDManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "t">
+            </PersistentString>
+            <PersistentString
+               value = "th">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ClassListPage.ginit() -&gt; ():ClassListPage.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "AcuaSDK.ACService().UserId()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.ClassList_qingdan.(getStartTime in _6E7A8FDC9D043333A56DCAD3EE9077DE) (AC_for_swift.ClassList_qingdan)(ObjectiveC.Course) -&gt; Swift.Double:ClassList_qingdan.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSDate.dateWithString(obj.getStartTime()!)">
+            </PersistentString>
+            <PersistentString
+               value = "NSDate(string: &quot;2003/11/10&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.LoginViewController.onloginCallback (AC_for_swift.LoginViewController)(Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSURLResponse&gt;, data : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSData&gt;, err : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSError&gt;) -&gt; ():LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "err">
+            </PersistentString>
+            <PersistentString
+               value = "resultData.valueForKey(&quot;code&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OneToOneClassRoom.viewDidLoad() -&gt; ():OneToOneClassRoom.swift">
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.OneToOneRoomView.socketCallBackMSG (AC_for_swift.OneToOneRoomView)(ObjectiveC.NSString, nickName : Swift.String) -&gt; ():OneToOneRoomView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "socketText.containsString(&quot;Airclass_Chat_IMG_$_1v1msg&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = "socketText.rangeOfString(&quot;Airclass_Chat_IMG_$_1v1msg&quot;).length">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OneToOneRoomView.onNextpage(AnyObject) -&gt; ():OneToOneRoomView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "_serverPageID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ClassListItem.fillInfo(Course, dateStr : String) -&gt; ():ClassListItem.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(tb_details?.cell?.cellSizeForBounds((tb_details?.bounds)!))!">
+            </PersistentString>
+            <PersistentString
+               value = "tb_details?.bounds">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.PdfView.drawInContext (AC_for_swift.PdfView)(Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.CGContext&gt;) -&gt; ():PdfView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSMakeRect(0, 0, self.bounds.width, h)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.FrameColorBtn.mouseDown (AC_for_swift.FrameColorBtn)(ObjectiveC.NSEvent) -&gt; ():FrameColorBtn.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tb.textColor == NSColor.whiteColor()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.OneToOneRoomView.(autoAlignpdfReader in _F4C1B84164F75870229B513267CC442B) (AC_for_swift.OneToOneRoomView)() -&gt; ():OneToOneRoomView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.ClassListItem.(loadlessonimg in _5DC0F9967D4A1EE0870067170F0395F0) (AC_for_swift.ClassListItem)(ObjectiveC.NSURL) -&gt; ():ClassListItem.swift">
+      </ContextState>
+      <ContextState
+         contextName = "OneToOneRoomView.setPdfPagesInfo(Int, _totalPages : Int) -&gt; ():OneToOneRoomView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.yemaTextField!.stringValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.ColorManager.ginit (AC_for_swift.ColorManager)() -&gt; ():ColorManager.swift">
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.MediaView.onStartSdkCallBack (AC_for_swift.MediaView)(ObjectiveC.NSNotification) -&gt; ():MediaView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "MediaEngine.SDK()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ClassList_qingdan.(getStartTime in _6E7A8FDC9D043333A56DCAD3EE9077DE)(Course) -&gt; Double:ClassList_qingdan.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "obj.getStartTime()">
+            </PersistentString>
+            <PersistentString
+               value = "StyleManager.instance.jishiqiFormat">
+            </PersistentString>
+            <PersistentString
+               value = "obj.getCourseName()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DrawViewToolBar.onbtnDown(NSButton) -&gt; ():DrawViewToolBar.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(_sender as! FrameBtn).isSelected">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AcMain.closeApp() -&gt; ():AcMain.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.window">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "DrawViewToolBar.ginit() -&gt; ():DrawViewToolBar.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "frb.downfunc">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WhiteBoardLayer.drawInContext(CGContext) -&gt; ():WhiteBoardLayer.swift">
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.ClassListView.fillInfo (AC_for_swift.ClassListView)(ObjectiveC.CourseVector) -&gt; ():ClassListView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "arr.size()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OneToOneRoomView.serverPageID.setter:OneToOneRoomView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "AcuaSDK.ACService().UserId() &amp; 0x00000000ffffffff">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WhiteBoardTextFieldView.resizeWithOldSuperviewSize(CGSize) -&gt; ():WhiteBoardTextField.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.frame.height">
+            </PersistentString>
+            <PersistentString
+               value = "self.frame.origin.y">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.OneToOneRoomView.socketCallBackMSG (AC_for_swift.OneToOneRoomView)(Swift.String, nickName : Swift.String) -&gt; ():OneToOneRoomView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "jsonErr">
+            </PersistentString>
+            <PersistentString
+               value = "socketText.dataUsingEncoding(NSUTF8StringEncoding, allowLossyConversion: true)">
+            </PersistentString>
+            <PersistentString
+               value = "NSJSONSerialization.JSONObjectWithData(socketText.dataUsingEncoding(NSUTF8StringEncoding, allowLossyConversion: true)!, options: NSJSONReadingOptions.MutableLeaves, error: jsonErr!)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.ClassListPage.ginit (AC_for_swift.ClassListPage)() -&gt; ():ClassListPage.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "InstanceManager.instance().getModuleInstaceByName(&quot;ClassListPage&quot;)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AcMain.applicationWillTerminate(NSNotification) -&gt; ():AcMain.swift">
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.GlobelTimer.changeTime (AC_for_swift.GlobelTimer)() -&gt; ():GlobelTimer.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "ndCom">
+            </PersistentString>
+            <PersistentString
+               value = "ndCom.second">
+            </PersistentString>
+            <PersistentString
+               value = "nd">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.MediaView.stopMedia (AC_for_swift.MediaView)() -&gt; ():MediaView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sessionID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WhiteBoardLayer.endRecodFreePointAndWaitDraw() -&gt; ():WhiteBoardLayer.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "_dInfos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChangyongyuTableList.numberOfRowsInTableView(NSTableView) -&gt; Int:ChangyongyuView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "keyArr.count">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.PDFDocument.setBoundsSize (AC_for_swift.PDFDocument)(C.CGSize) -&gt; ():PdfView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.frame">
+            </PersistentString>
+            <PersistentString
+               value = "pdfview.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MediaView.onSdkListChanged(NSNotification) -&gt; ():MediaView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "aSdks.get(0)">
+            </PersistentString>
+            <PersistentString
+               value = "aSdks.size()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.LoginViewController.ginit (AC_for_swift.LoginViewController)() -&gt; ():LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "test.keyEquivalent">
+            </PersistentString>
+            <PersistentString
+               value = "tb_login.cell()">
+            </PersistentString>
+            <PersistentString
+               value = "self.view">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OneToOneClassRoom.uploadExitRoomLog() -&gt; ():OneToOneClassRoom.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSURLRequest(URL: NSURL(string: NSString(format: GMLConfig.inOutRoomInterface,&quot;mout&quot;,AcuaSDK.ACService().UserId(),&quot;private&quot;,GlobelInfo.getInstance().currentCourse.getClassId(),GlobelInfo.getInstance().currentCourse.getClassId(),&quot;stu&quot;) as String)!);">
+            </PersistentString>
+            <PersistentString
+               value = "urlrequest.URL">
+            </PersistentString>
+            <PersistentString
+               value = "AcuaSDK.ACService().UserId()">
+            </PersistentString>
+            <PersistentString
+               value = "GlobelInfo.getInstance().currentCourse">
+            </PersistentString>
+            <PersistentString
+               value = "classID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MediaView.onStartSdkCallBack(NSNotification) -&gt; ():MediaView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "args.getSdkId()">
+            </PersistentString>
+            <PersistentString
+               value = "Int(_classSession.Jid())">
+            </PersistentString>
+            <PersistentString
+               value = "DISPATCH_TIME_NOW">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PDFDocument.setTrueOffset(CGPoint) -&gt; ():PdfView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pos.x">
+            </PersistentString>
+            <PersistentString
+               value = "whiteboardView.frame.origin.x">
+            </PersistentString>
+            <PersistentString
+               value = "pdfview.sourcePDFSize">
+            </PersistentString>
+            <PersistentString
+               value = "pdfview.frame.origin.y">
+            </PersistentString>
+            <PersistentString
+               value = "whiteboardView.frameY">
+            </PersistentString>
+            <PersistentString
+               value = "pdfview.frame.origin.x">
+            </PersistentString>
+            <PersistentString
+               value = "whiteboardView.frame.origin.y">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.LoadingView.drawRect (AC_for_swift.LoadingView)(C.CGRect) -&gt; ():LoadingView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.bounds">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TranslatePanel.fenxiJSON(NSDictionary) -&gt; ():TranslatePanel.swift">
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.ChatItem.setHtmlText (AC_for_swift.ChatItem)(ObjectiveC.NSString) -&gt; ():ChatItem.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "_htmlText">
+            </PersistentString>
+            <PersistentString
+               value = "NSMakeRange(r1.length, r2.location-4)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.ClassListView.ginit (AC_for_swift.ClassListView)() -&gt; ():ClassListView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "btn_myClass.frame">
+            </PersistentString>
+            <PersistentString
+               value = "self.frame.height - 35">
+            </PersistentString>
+            <PersistentString
+               value = "self.frame.size.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ClassList_qingdan.fillInfo(CourseVector, type : String) -&gt; ():ClassList_qingdan.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "obj.getCourseName()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.OneToOneRoomView.changeGuanBiao (AC_for_swift.OneToOneRoomView)(ObjectiveC.NSNotification) -&gt; ():OneToOneRoomView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "guangbiaotp.getXOffset()&amp;0x00ff">
+            </PersistentString>
+            <PersistentString
+               value = "pdfReader?.bounds.width">
+            </PersistentString>
+            <PersistentString
+               value = "tempRect">
+            </PersistentString>
+            <PersistentString
+               value = "tempscale">
+            </PersistentString>
+            <PersistentString
+               value = "(pdfReader?.bounds.width)">
+            </PersistentString>
+            <PersistentString
+               value = "tempRect.origin.x">
+            </PersistentString>
+            <PersistentString
+               value = "guangbiaotp.getXOffset()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.ClassListView.showOrHideLoading (AC_for_swift.ClassListView)(Swift.Bool) -&gt; ():ClassListView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "loading">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.DrawView.viewDidMoveToWindow (AC_for_swift.DrawView)() -&gt; ():DrawView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OneToOneRoomView.sendChatInfo(AnyObject) -&gt; ():OneToOneRoomView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "txt">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.PdfView.fillPdf (AC_for_swift.PdfView)(Swift.AnyObject, type : Swift.String, pageID : Swift.UInt16) -&gt; ():PdfView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pdfContainer?.pageCount">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ClassListView.huiyuanzhongxin(AnyObject) -&gt; ():ClassListView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "str">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MediaView.sendAVDotData() -&gt; ():MediaView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "channel">
+            </PersistentString>
+            <PersistentString
+               value = "MediaEngine.CurrentSDK()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MediaView.getOtherUserName() -&gt; NSString:MediaView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "_classSession.Teacher().getDisplayName()">
+            </PersistentString>
+            <PersistentString
+               value = "_classSession.Teacher()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.OneToOneRoomView.mouseEntered (AC_for_swift.OneToOneRoomView)(ObjectiveC.NSEvent) -&gt; ():OneToOneRoomView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "theEvent.locationInWindow">
+            </PersistentString>
+            <PersistentString
+               value = "soundbtn?.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MediaView.onClassState(NSNotification) -&gt; ():MediaView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "_allUsers.size()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WhiteBoardLayer.createFreeLine(CGPoint, drawType : DrawType) -&gt; ():WhiteBoardLayer.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "gScale">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.FrameColorBtn.init (AC_for_swift.FrameColorBtn.Type)(_enabledImgskin : ObjectiveC.NSImage, _disabledImgskin : ObjectiveC.NSImage, _enabledThirdColorArr : ObjectiveC.NSArray, _disabledThirdColorArr : ObjectiveC.NSArray) -&gt; AC_for_swift.FrameColorBtn:FrameColorBtn.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sourceRect">
+            </PersistentString>
+            <PersistentString
+               value = "self.subviews">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MediaView.onRequestChangeSdk(NSNotification) -&gt; ():MediaView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "args.getSdkId()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OneToOneClassRoom.ginit() -&gt; ():OneToOneClassRoom.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.OneToOneRoomView.resizeWithOldSuperviewSize (AC_for_swift.OneToOneRoomView)(C.CGSize) -&gt; ():OneToOneRoomView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.frame.height">
+            </PersistentString>
+            <PersistentString
+               value = "pdfReader?.frame">
+            </PersistentString>
+            <PersistentString
+               value = "scrollContainer?.contentView.frame">
+            </PersistentString>
+            <PersistentString
+               value = "pdfReader?.frame.origin.y">
+            </PersistentString>
+            <PersistentString
+               value = "self.frame.width">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MediaView.onUserChangeded(NSNotification) -&gt; ():MediaView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "audioRecodePath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.ChatItem.(draw in _F8B91F083753CBE16320CB144F21A42B) (AC_for_swift.ChatItem)() -&gt; ():ChatItem.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "contentTb?.hidden">
+            </PersistentString>
+            <PersistentString
+               value = "contentBmp?.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AcMain.windowDidLoad() -&gt; ():AcMain.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "LanguageManager.instance">
+            </PersistentString>
+            <PersistentString
+               value = "NSUserDefaults.standardUserDefaults().dictionaryRepresentation()[&quot;NSLanguages&quot;][0]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OneToOneRoomView.(autoAlignpdfReader in _F9D70A0BE2461737C236B423589EDA40)() -&gt; ():OneToOneRoomView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "scrollContainer?.frame.height">
+            </PersistentString>
+            <PersistentString
+               value = "pdfReader?.frame.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.TishiViewController.setTishi (AC_for_swift.TishiViewController)(ObjectiveC.NSNotification) -&gt; ():TishiViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "info.count">
+            </PersistentString>
+            <PersistentString
+               value = "urlBtn.attributedStringValue">
+            </PersistentString>
+            <PersistentString
+               value = "notify.userInfo.valueForKey(&quot;info&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = "attrs[&quot;NSParagraphStyleAttributeName&quot;].alignment">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ClassList_qingdan.(jiexishujv in _6E7A8FDC9D043333A56DCAD3EE9077DE)(CourseVector, type : String) -&gt; ():ClassList_qingdan.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "courseArr">
+            </PersistentString>
+            <PersistentString
+               value = "obj.getCourseId()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OneToOneRoomView.msgCallBack(NSNotification) -&gt; ():OneToOneRoomView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(cameraContainer?.getOtherUserName())! as String">
+            </PersistentString>
+            <PersistentString
+               value = "obj.getMessage()">
+            </PersistentString>
+            <PersistentString
+               value = "(cameraContainer?.getOtherUserName())">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AcMain.windowShouldClose(AnyObject) -&gt; Bool:AcMain.swift">
+      </ContextState>
+      <ContextState
+         contextName = "TranslatePanel.onfanyiCallBack(NSURLResponse?, nd : NSData?, ne : NSError?) -&gt; ():TranslatePanel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "String(data: nd!, encoding: NSUTF8StringEncoding)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.MaskImageView.setImage (AC_for_swift.MaskImageView)(ObjectiveC.NSImage) -&gt; ():MaskImageView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "img">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.AcMain.windowWillClose (AC_for_swift.AcMain)(ObjectiveC.NSNotification) -&gt; ():AcMain.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.window?.contentViewController">
+            </PersistentString>
+            <PersistentString
+               value = "(self.window?.contentView as? NSView)?.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MediaView.stopMedia() -&gt; ():MediaView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "_classSession">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.LoadingView.viewDidMoveToWindow (AC_for_swift.LoadingView)() -&gt; ():LoadingView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sel">
+            </PersistentString>
+            <PersistentString
+               value = "offsettime">
+            </PersistentString>
+            <PersistentString
+               value = "1000.0/24">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.GlobelTimer.start (AC_for_swift.GlobelTimer)() -&gt; ():GlobelTimer.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "ndCom.minute">
+            </PersistentString>
+            <PersistentString
+               value = "ndCom.hour">
+            </PersistentString>
+            <PersistentString
+               value = "ndCom.second">
+            </PersistentString>
+            <PersistentString
+               value = "ndCom.calendar">
+            </PersistentString>
+            <PersistentString
+               value = "ttt.calendar">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AdminCMDManager.decodeAdminCmd(String) -&gt; ():AdminCMDManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSString(data: tbodyND!, encoding: NSUTF8StringEncoding)?.stringByTrimmingCharactersInSet(NSCharacterSet.whitespaceAndNewlineCharacterSet());">
+            </PersistentString>
+            <PersistentString
+               value = "t.substringWithRange(NSMakeRange(6, t.length - 6))">
+            </PersistentString>
+            <PersistentString
+               value = "t">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AniWhiteBoardLayer.changeRect(CGRect) -&gt; ():AniWhiteBoardLayer.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "cr.size.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ScrollContainer.scrollChanged(AnyObject?) -&gt; ():PdfView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "scrollPoint">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ClassListPage.(goOneToOneClassRoom(ClassListPage) -&gt; (AnyObject) -&gt; ()).(gComplete #1)()():ClassListPage.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "InstanceManager.instance().getModuleInstaceByName(&quot;stroyOneToOne&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = "self.view.window">
+            </PersistentString>
+            <PersistentString
+               value = "classRoomPage as! OneToOneClassRoom">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WhiteBoardLayer.incomingData(WBOperationData) -&gt; ():WhiteBoardLayer.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "color">
+            </PersistentString>
+            <PersistentString
+               value = "_dInfos">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.test() -&gt; ():LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view.frame.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChangyongyuView.init(frame : CGRect) -&gt; ChangyongyuView:ChangyongyuView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "p[plength] as NSPoint">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PDFDocument.setFrameSize(CGSize) -&gt; ():PdfView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pdfType">
+            </PersistentString>
+            <PersistentString
+               value = "pdfview.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OneToOneRoomView.(fillInfo(OneToOneRoomView) -&gt; (Course) -&gt; ()).(gcomplete #1)(NSURLResponse?, nd : NSData?, err : NSError?)():OneToOneRoomView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "serverPageID">
+            </PersistentString>
+            <PersistentString
+               value = "cos.getCourseId()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[DrawTool clearByLinePoints:]:DrawTool.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "_points">
+            </PersistentString>
+            <PersistentString
+               value = "ps[1]">
+            </PersistentString>
+            <PersistentString
+               value = "ps[2]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.ClassListView.(ginit (AC_for_swift.ClassListView) -&gt; () -&gt; ()).(onMenuBtnClick #1) (ObjectiveC.NSButton)():ClassListView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "classlistInfo">
+            </PersistentString>
+            <PersistentString
+               value = "classlistInfo.valueForKey(&quot;res&quot;)!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "TranslatePanel.ontranslateClick(AnyObject) -&gt; ():TranslatePanel.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSURL(string: String(format: urlstr, tb_input.stringValue))">
+            </PersistentString>
+            <PersistentString
+               value = "url">
+            </PersistentString>
+            <PersistentString
+               value = "urlstr">
+            </PersistentString>
+            <PersistentString
+               value = "String(format: urlstr, tb_input.stringValue)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.PdfView.serverPageID.setter : Swift.UInt16:PdfView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "_serverPageID">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WhiteBoardLayer.encodeWD(DrawInfo) -&gt; WBOperationData:WhiteBoardLayer.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "di.Pen">
+            </PersistentString>
+            <PersistentString
+               value = "di.Top">
+            </PersistentString>
+            <PersistentString
+               value = "textNd.bytes">
+            </PersistentString>
+            <PersistentString
+               value = "di.Bottom">
+            </PersistentString>
+            <PersistentString
+               value = "tt">
+            </PersistentString>
+            <PersistentString
+               value = "tb">
+            </PersistentString>
+            <PersistentString
+               value = "di.text">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.OneToOneRoomView.(fillInfo (AC_for_swift.OneToOneRoomView) -&gt; (ObjectiveC.Course) -&gt; ()).(gcomplete #1) ((Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSURLResponse&gt;, Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSData&gt;, Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSError&gt;))():OneToOneRoomView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "window">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MediaView.sendMsg(String, option : String) -&gt; ():MediaView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "msg">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ChangyongyuTableList.tableView(NSTableView, objectValueForTableColumn : NSTableColumn?, row : Int) -&gt; AnyObject?:ChangyongyuView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tableColumn?.identifier">
+            </PersistentString>
+            <PersistentString
+               value = "_data.objectAtIndex(row).objectForKey((tableColumn?.identifier)!)">
+            </PersistentString>
+            <PersistentString
+               value = "_data.objectAtIndex(row)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MediaView.(onStartSdkCallBack(MediaView) -&gt; (NSNotification) -&gt; ()).(closure #1):MediaView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "args.getSdkId()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "PdfView.drawRect(CGRect) -&gt; ():PdfView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "h">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MediaView.changeSDK(UInt8) -&gt; ():MediaView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "_classSession.CurrentSdk()">
+            </PersistentString>
+            <PersistentString
+               value = "_classSession.AllUsers().size()">
+            </PersistentString>
+            <PersistentString
+               value = "_classSession.AvailableSdks().size()">
+            </PersistentString>
+            <PersistentString
+               value = "MediaEngine.CurrentSDK()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.OneToOneClassRoom.(goprePage (AC_for_swift.OneToOneClassRoom) -&gt; () -&gt; ()).(gComplete #1) (())():OneToOneClassRoom.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sessionId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.MyTextView.keyDown (AC_for_swift.MyTextView)(ObjectiveC.NSEvent) -&gt; ():ChatInput.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSEventModifierFlags.CommandKeyMask">
+            </PersistentString>
+            <PersistentString
+               value = "theEvent.characters">
+            </PersistentString>
+            <PersistentString
+               value = "NSEventModifierFlags.DeviceIndependentModifierFlagsMask">
+            </PersistentString>
+            <PersistentString
+               value = "theEvent.modifierFlags.rawValue">
+            </PersistentString>
+            <PersistentString
+               value = "theEvent.modifierFlags">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.FrameBtn.mouseDown (AC_for_swift.FrameBtn)(ObjectiveC.NSEvent) -&gt; ():FrameBtn.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "downfunc">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC::Talk::Session::ClassSessionImpl::onReceiveVideoServers(void const*, AC::Message::ACMessageT&lt;CGetVideoServers_S2C&gt;&amp;):ac_session_class_impl.cc">
+      </ContextState>
+      <ContextState
+         contextName = "ClassList_qingdan.(uploadJoinRoomLog(ClassList_qingdan) -&gt; () -&gt; ()).(onComplete #1)(NSURLResponse?, nd : NSData?, err : NSError?) -&gt; ():ClassList_qingdan.swift">
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.PdfView.drawRect (AC_for_swift.PdfView)(C.CGRect) -&gt; ():PdfView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "NSMakeRect(0, 0, dirtyRect.width, h)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.LoginViewController.onLogin (AC_for_swift.LoginViewController)(Swift.AnyObject) -&gt; ():LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "GMLConfig.loginInterface">
+            </PersistentString>
+            <PersistentString
+               value = "tishiPanel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.ClassListView.drawRect (AC_for_swift.ClassListView)(C.CGRect) -&gt; ():ClassListView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.frame.height">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WhiteBoardView.mouseEntered(NSEvent) -&gt; ():PdfView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "theEvent.locationInWindow.x">
+            </PersistentString>
+            <PersistentString
+               value = "frameX">
+            </PersistentString>
+            <PersistentString
+               value = "frameY">
+            </PersistentString>
+            <PersistentString
+               value = "mouseX">
+            </PersistentString>
+            <PersistentString
+               value = "mouseY">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OneToOneRoomView.resizeWithOldSuperviewSize(CGSize) -&gt; ():OneToOneRoomView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sdkView.frame.height">
+            </PersistentString>
+            <PersistentString
+               value = "channelView.frame.origin.y">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.startMain() -&gt; ():LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "GlobelInfo.getInstance().crashLogs">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MediaView.OnEngineEvent(EngineEvent) -&gt; ():MediaView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "MediaEngine.CurrentSDK()">
+            </PersistentString>
+            <PersistentString
+               value = "audioRecodePath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.ChatInput.clearText (AC_for_swift.ChatInput)() -&gt; ():ChatInput.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tb?.string">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.(startMain(LoginViewController) -&gt; () -&gt; ()).(gComplete #1)()():LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view.window?.contentViewController">
+            </PersistentString>
+            <PersistentString
+               value = "classListPage.view.window">
+            </PersistentString>
+            <PersistentString
+               value = "self.view.window">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.MediaView.onUserChangeded (AC_for_swift.MediaView)(ObjectiveC.NSNotification) -&gt; ():MediaView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "user.getMediaId()">
+            </PersistentString>
+            <PersistentString
+               value = "self.mediaSession">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.OneToOneRoomView.autosizipdfReader (AC_for_swift.OneToOneRoomView)(C.CGRect) -&gt; ():OneToOneRoomView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "(pdfReader?.frame.size.height)! - (scrollContainer?.frame.size.height)!">
+            </PersistentString>
+            <PersistentString
+               value = "pdfReader?.frame">
+            </PersistentString>
+            <PersistentString
+               value = "(pdfReader?.frame.size.height)! * (scrollContainer?.frame.size.width)! / (pdfReader?.frame.width)!)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ClassList_qingdan.(fillinPanel in _8E5D9CEC348252AC9A679F68C43E945B)() -&gt; ():ClassList_qingdan.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "getTimeStr(cos)">
+            </PersistentString>
+            <PersistentString
+               value = "getTimeStr(courseArr[ii-1])">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "specialized OneToOneRoomView.sendChatInfo(AnyObject) -&gt; ():OneToOneRoomView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "txt">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ClassList_qingdan.uploadJoinRoomLog() -&gt; ():ClassList_qingdan.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "urlrequest.URL">
+            </PersistentString>
+            <PersistentString
+               value = "NSURL(string: NSString(format: GMLConfig.inOutRoomInterface,&quot;min&quot;,AcuaSDK.ACService().UserId(),&quot;private&quot;,GlobelInfo.getInstance().currentCourse.getClassId(),&quot;stu&quot;) as String).url">
+            </PersistentString>
+            <PersistentString
+               value = "urlrequest.URL?.path">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.HeartbeatManager.addTask (AC_for_swift.HeartbeatManager)(ObjectiveC.Selector, ti : Swift.Double, tg : Swift.AnyObject, taskName : Swift.String, repeats : Swift.Bool) -&gt; ():HeartbeatManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "sel">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.viewDidLoad() -&gt; ():LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view.window">
+            </PersistentString>
+            <PersistentString
+               value = "self.identifier">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OneToOneRoomView.(fillInfo(OneToOneRoomView) -&gt; (Course) -&gt; ()).(gcomplete #1)(NSData?, greperson : NSURLResponse?, err : NSError?)():OneToOneRoomView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "window">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.PdfView.fillPdf (AC_for_swift.PdfView)(Swift.AnyObject, type : Swift.String) -&gt; ():PdfView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pdfContainer?.currentPage">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AcMain.(checkCrash in _E786C2B6B74EAF95A4ECF727F45CE77F)() -&gt; ():AcMain.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "crashPath">
+            </PersistentString>
+            <PersistentString
+               value = "crashDictionaryPath as! String">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OneToOneRoomView.updatePDFReaderTrueOffset() -&gt; ():OneToOneRoomView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "scrollContainer?.verticalScroller?.frame">
+            </PersistentString>
+            <PersistentString
+               value = "(scrollContainer?.verticalPageScroll)!">
+            </PersistentString>
+            <PersistentString
+               value = "scrollContainer?.documentVisibleRect">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ClassListView.(ginit(ClassListView) -&gt; () -&gt; ()).(bannerComplete #1)(NSURLResponse?, nd : NSData?, err : NSError?)():ClassListView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pathArr[i].valueForKey(&quot;pic&quot;)">
+            </PersistentString>
+            <PersistentString
+               value = "bannerData">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ClassListView.ginit() -&gt; ():ClassListView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "bannerStr">
+            </PersistentString>
+            <PersistentString
+               value = "NSString(format: GMLConfig.binnerPath,&quot;1&quot;,AcuaSDK.ACService().RoleType() == &quot;stu&quot; ? 1:4,GlobelInfo.getInstance().appVersion) as String)!">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.viewDidAppear() -&gt; ():LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view.frame.size">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WhiteBoardView.viewDidMoveToWindow() -&gt; ():PdfView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.window?.acceptsMouseMovedEvents">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.OneToOneRoomView.(_serverPageID in _F4C1B84164F75870229B513267CC442B).getter : Swift.ImplicitlyUnwrappedOptional&lt;Swift.UInt16&gt; [inlined]:OneToOneRoomView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "n.integerValue">
+            </PersistentString>
+            <PersistentString
+               value = "pdfReader?.currentPageId">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "UpdateController.onUpdate(AnyObject) -&gt; ():UpdateController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "currentURL">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[MainWindow initWithContentRect:styleMask:backing:defer:]:MainWindow.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.styleMask">
+            </PersistentString>
+            <PersistentString
+               value = "closebtn.enabled">
+            </PersistentString>
+            <PersistentString
+               value = "(NSTextField *)arr[3]">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AcMain.uploadCallBack(NSNotification) -&gt; ():AcMain.swift">
+      </ContextState>
+      <ContextState
+         contextName = "ChangyongyuView.onSelectItem(ListView) -&gt; ():ChangyongyuView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "dataSource[idx].values.first">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.ClassListPage.viewDidLoad (AC_for_swift.ClassListPage)() -&gt; ():ClassListPage.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view.frame.size">
+            </PersistentString>
+            <PersistentString
+               value = "self.view.window?.contentMinSize">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WhiteBoardView.mouseDragged(NSEvent) -&gt; ():PdfView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "mouseY">
+            </PersistentString>
+            <PersistentString
+               value = "theEvent.locationInWindow.y">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "MediaView.getResultMediaID(ClassUser) -&gt; UserId:MediaView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "ROLE_TEACHER">
+            </PersistentString>
+            <PersistentString
+               value = "ROLE_STUDENT">
+            </PersistentString>
+            <PersistentString
+               value = "user.getRole()">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AniWhiteBoardLayer.drawInContext(CGContext) -&gt; ():AniWhiteBoardLayer.swift">
+      </ContextState>
+      <ContextState
+         contextName = "OneToOneRoomView.changSDK(NSNotification) -&gt; ():OneToOneRoomView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "channelInfo.stringValue">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "+[AcuaSDK InitUA]:AcuaSDK.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "[GlobelInfo getInstance].logpath">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.ClassListItem.fillInfo (AC_for_swift.ClassListItem)(ObjectiveC.Course) -&gt; ():ClassListItem.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tb_details?">
+            </PersistentString>
+            <PersistentString
+               value = "tb_courseTypeName">
+            </PersistentString>
+            <PersistentString
+               value = "NSString(format: &quot;%d&#x4eba;&#x5df2;&#x9884;&#x7ea6;&quot;, (currentCourse.GetString(&quot;total_stu&quot;, defaultValue: &quot;0&quot;))!)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.ClassListItem.onlessonimgCallback (AC_for_swift.ClassListItem)(Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSURLResponse&gt;, data : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSData&gt;, err : Swift.ImplicitlyUnwrappedOptional&lt;ObjectiveC.NSError&gt;) -&gt; ():ClassListItem.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "err.code">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WhiteBoardTextField.viewDidMoveToSuperview() -&gt; ():WhiteBoardTextField.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LanguageManager.init() -&gt; LanguageManager:LanguageManager.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "arr[i]">
+            </PersistentString>
+            <PersistentString
+               value = "languageDic[arr[i]]">
+            </PersistentString>
+            <PersistentString
+               value = "languageDic">
+            </PersistentString>
+            <PersistentString
+               value = "obj.allKeys">
+            </PersistentString>
+            <PersistentString
+               value = "currentLanguage">
+            </PersistentString>
+            <PersistentString
+               value = "valueArr[i]">
+            </PersistentString>
+            <PersistentString
+               value = "obj.valueForKey(resultkey as! String)">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.ClassListItem.fillInfo (AC_for_swift.ClassListItem)(Swift.AnyObject) -&gt; ():ClassListItem.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "infoOpen?.course_pic">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "LoginViewController.ginit() -&gt; ():LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "tb_showUserPWD.cell?.usesSingleLineMode">
+            </PersistentString>
+            <PersistentString
+               value = "tbUserName.usesSingleLineMode">
+            </PersistentString>
+            <PersistentString
+               value = "tbUserName.cell?.usesSingleLineMode ">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WhiteBoardTextField.greset() -&gt; ():WhiteBoardTextField.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.frame">
+            </PersistentString>
+            <PersistentString
+               value = "self.cell?.wraps">
+            </PersistentString>
+            <PersistentString
+               value = "(self.cell as! NSTextFieldCell).wraps">
+            </PersistentString>
+            <PersistentString
+               value = "(self.cell as! NSTextFieldCell).scrollable">
+            </PersistentString>
+            <PersistentString
+               value = "self.usesSingleLineMode">
+            </PersistentString>
+            <PersistentString
+               value = "self.cell?.scrollable">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "WhiteBoardView.sendGuangbiao() -&gt; ():PdfView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.frame">
+            </PersistentString>
+            <PersistentString
+               value = "frameX">
+            </PersistentString>
+            <PersistentString
+               value = "self.bounds.height">
+            </PersistentString>
+            <PersistentString
+               value = "mouseX">
+            </PersistentString>
+            <PersistentString
+               value = "mouseY">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "ClassListView.lunboBinner([String]) -&gt; ():ClassListView.swift">
+      </ContextState>
+      <ContextState
+         contextName = "FrameBtn.mouseUp(NSEvent) -&gt; ():FrameBtn.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "isSelected">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "OneToOneRoomView.autosizipdfReader(CGRect) -&gt; ():OneToOneRoomView.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "pdfReader?.frame">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "AC_for_swift.LoginViewController.viewWillAppear (AC_for_swift.LoginViewController)() -&gt; ():LoginViewController.swift">
+         <PersistentStrings>
+            <PersistentString
+               value = "self.view.window">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>

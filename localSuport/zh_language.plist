@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loginCon</key>
+	<dict>
+		<key>tb_NameText</key>
+		<string>已验证手机/邮箱</string>
+		<key>tb_PWDText</key>
+		<string>请输入您的密码</string>
+		<key>btn_loginText</key>
+		<string>登 录</string>
+		<key>btn_cancel</key>
+		<string>取 消</string>
+		<key>btn_zhuceText</key>
+		<string>注册账号</string>
+		<key>btn_wangjiText</key>
+		<string>忘记密码</string>
+	</dict>
+	<key>classListV</key>
+	<dict>
+		<key>btn_huiyuanzhognxinText</key>
+		<string>会员中心</string>
+		<key>btn_wodekebiaoText</key>
+		<string>我的课表</string>
+		<key>label_nolesson</key>
+		<string>没有预约课程,同学你不够勤奋哦！</string>
+	</dict>
+	<key>classListItem</key>
+	<dict>
+		<key>btn_joinRoomText</key>
+		<string>进入教室</string>
+		<key>tb_courseTypeNameText</key>
+		<string>1对1</string>
+		<key>tb_detailsFormaterText1</key>
+		<string>%d人已预约</string>
+		<key>tb_detailsFormaterText2</key>
+		<string>Books：%@</string>
+		<key>tb_daojiashiTimeText1</key>
+		<string>%@后，可进入教室</string>
+		<key>tb_daojiashiTimeText2</key>
+		<string>课程已经结束</string>
+		<key>tb_daojiashiTimeText3</key>
+		<string>课程已开始</string>
+		<key>tb_daojiashiTimeFormat1</key>
+		<string>%d小时%d分%d秒</string>
+		<key>tb_daojiashiTimeFormat2</key>
+		<string>%d天%d小时%d分%d秒</string>
+		<key>tb_teaAndCourse</key>
+		<string>%@老师:%@</string>
+	</dict>
+	<key>onetooneView</key>
+	<dict>
+		<key>channelInfo</key>
+		<string>语音通道</string>
+		<key>userInfoBarLabel2</key>
+		<string>%@与%@视频通话中</string>
+		<key>userInfoBarLabel3</key>
+		<string>In video call</string>
+		<key>userInfoBarLabel1</key>
+		<string>等待其他参与者</string>
+		<key>tb_userListPanelTitle</key>
+		<string>参与者</string>
+		<key>btn_sendMSG</key>
+		<string>发送</string>
+	</dict>
+	<key>offLineCon</key>
+	<dict>
+		<key>label_offline</key>
+		<string>检测到AC与服务器断开连接，正在尝试为您重新建立连接…</string>
+		<key>label_huti</key>
+		<string>您的账号已在其他终端进入教室，已自动为您退出该教室</string>
+		<key>btn_commit</key>
+		<string>我知道了</string>
+	</dict>
+	<key>updateCon</key>
+	<dict>
+		<key>btn_update</key>
+		<string>立即升级</string>
+		<key>tb_updateInfo</key>
+		<string>您当前使用版本过低，请升级到最新版本</string>
+	</dict>
+	<key>tishiCon</key>
+	<dict>
+		<key>loginCon_netErr</key>
+		<string>服务器维护中，请稍后重试.(Code:%@)</string>
+		<key>loginCon_feikong</key>
+		<string>账号或者密码不能为空</string>
+	</dict>
+</dict>
+</plist>

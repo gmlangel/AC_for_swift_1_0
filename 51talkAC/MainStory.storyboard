@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.Cocoa.Storyboard.XIB" version="3.0" toolsVersion="9531" systemVersion="15C50" targetRuntime="MacOSX.Cocoa" propertyAccessControl="none" useAutolayout="YES" initialViewController="Gyq-m7-H5b">
+    <dependencies>
+        <plugIn identifier="com.apple.InterfaceBuilder.CocoaPlugin" version="9531"/>
+    </dependencies>
+    <scenes>
+        <!--Window Controller-->
+        <scene sceneID="yPu-1b-mlm">
+            <objects>
+                <windowController storyboardIdentifier="stroyMain" id="Gyq-m7-H5b" customClass="AcMain" customModule="_1talkAC" customModuleProvider="target" sceneMemberID="viewController">
+                    <window key="window" title="51talk" allowsToolTipsWhenApplicationIsInactive="NO" autorecalculatesKeyViewLoop="NO" oneShot="NO" releasedWhenClosed="NO" showsToolbarButton="NO" visibleAtLaunch="NO" animationBehavior="default" id="d0p-CS-t79" customClass="MainWindow">
+                        <windowStyleMask key="styleMask" titled="YES" closable="YES" miniaturizable="YES" resizable="YES"/>
+                        <rect key="contentRect" x="0.0" y="300" width="250" height="326"/>
+                        <rect key="screenRect" x="0.0" y="0.0" width="1280" height="777"/>
+                    </window>
+                    <connections>
+                        <segue destination="oAN-5P-bcx" kind="relationship" relationship="window.shadowedContentViewController" id="eph-pT-TuK"/>
+                    </connections>
+                </windowController>
+                <customObject id="e33-m2-85c" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="94" y="251"/>
+        </scene>
+        <!--Login View Controller-->
+        <scene sceneID="ULD-DM-7oS">
+            <objects>
+                <viewController storyboardIdentifier="stroyLogin" id="oAN-5P-bcx" customClass="LoginViewController" customModule="_1talkAC" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" id="qXi-8e-BUK" customClass="LoginView" customModule="_1talkAC" customModuleProvider="target">
+                        <rect key="frame" x="0.0" y="0.0" width="250" height="326"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </view>
+                    <connections>
+                        <segue destination="lLX-mE-zEq" kind="show" identifier="classList" id="Yof-wf-F0j"/>
+                        <segue destination="Ted-ip-Hyz" kind="modal" identifier="tishi" id="Dry-X5-1D9"/>
+                        <segue destination="iSI-b0-rkJ" kind="modal" identifier="shengji" id="1CB-xk-z35"/>
+                    </connections>
+                </viewController>
+                <customObject id="x9k-CG-Gfh" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="700" y="245"/>
+        </scene>
+        <!--提示-->
+        <scene sceneID="Nz9-Am-NYG">
+            <objects>
+                <viewController title="提示" storyboardIdentifier="tishipanel" id="Ted-ip-Hyz" customClass="TishiViewController" customModule="_1talkAC" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" id="Eyo-cK-rLN">
+                        <rect key="frame" x="0.0" y="0.0" width="400" height="100"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <subviews>
+                            <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" setsMaxLayoutWidthAtFirstLayout="YES" translatesAutoresizingMaskIntoConstraints="NO" id="IOy-pd-oWp">
+                                <rect key="frame" x="11" y="30" width="379" height="47"/>
+                                <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="center" title="GH是傻子" id="EUi-Vh-GQL">
+                                    <font key="font" metaFont="system"/>
+                                    <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
+                                    <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
+                                </textFieldCell>
+                            </textField>
+                        </subviews>
+                    </view>
+                    <connections>
+                        <outlet property="tb_info" destination="IOy-pd-oWp" id="J3l-HL-3bX"/>
+                    </connections>
+                </viewController>
+                <customObject id="2om-op-0iU" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="374" y="772"/>
+        </scene>
+        <!--升级提示-->
+        <scene sceneID="IW8-bW-ZXc">
+            <objects>
+                <viewController title="升级提示" id="iSI-b0-rkJ" customClass="UpdateController" customModule="_1talkAC" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" id="jKe-KZ-yPJ">
+                        <rect key="frame" x="0.0" y="0.0" width="400" height="100"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <subviews>
+                            <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" setsMaxLayoutWidthAtFirstLayout="YES" translatesAutoresizingMaskIntoConstraints="NO" id="qmM-q9-YyH">
+                                <rect key="frame" x="11" y="42" width="379" height="35"/>
+                                <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="center" title="您当前使用版本过低，请升级到最新版本" id="rNi-iW-DDF">
+                                    <font key="font" size="13" name=".PingFangSC-Regular"/>
+                                    <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
+                                    <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
+                                </textFieldCell>
+                            </textField>
+                            <button verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="zl6-BB-ZVF">
+                                <rect key="frame" x="155" y="12" width="92" height="32"/>
+                                <buttonCell key="cell" type="push" title="立即升级" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="j7g-mE-GgF">
+                                    <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                                    <font key="font" size="13" name=".PingFangSC-Regular"/>
+                                </buttonCell>
+                            </button>
+                        </subviews>
+                    </view>
+                    <connections>
+                        <outlet property="btn_update" destination="zl6-BB-ZVF" id="cVd-Dx-IzJ"/>
+                        <outlet property="tb_info" destination="qmM-q9-YyH" id="lsM-ve-Tts"/>
+                    </connections>
+                </viewController>
+                <customObject id="Scg-81-5IH" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="968" y="772"/>
+        </scene>
+        <!--Class List Page-->
+        <scene sceneID="w9k-mU-vfU">
+            <objects>
+                <viewController storyboardIdentifier="stroyClassList" id="lLX-mE-zEq" customClass="ClassListPage" customModule="_1talkAC" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" id="Ikw-m3-Jor" customClass="ClassListView" customModule="_1talkAC" customModuleProvider="target">
+                        <rect key="frame" x="0.0" y="0.0" width="800" height="680"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </view>
+                    <connections>
+                        <segue destination="QQh-SA-nHy" kind="show" identifier="SegueShowOneToOne" id="PB8-Hw-roE"/>
+                        <segue destination="HkO-Z9-1xt" kind="modal" identifier="listofflineTishi" id="t4I-mk-Gd5"/>
+                    </connections>
+                </viewController>
+                <customObject id="aLV-Rr-f66" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="1841" y="245"/>
+        </scene>
+        <!--One To One Class Room-->
+        <scene sceneID="HgN-DS-ICf">
+            <objects>
+                <viewController storyboardIdentifier="stroyOneToOne" id="QQh-SA-nHy" customClass="OneToOneClassRoom" customModule="_1talkAC" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" id="JmI-Qh-G17">
+                        <rect key="frame" x="0.0" y="0.0" width="800" height="620"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                    </view>
+                    <connections>
+                        <segue destination="HkO-Z9-1xt" kind="modal" identifier="roomofflineTishi" id="Twy-6H-eK9"/>
+                    </connections>
+                </viewController>
+                <customObject id="Ymt-K9-kZG" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2985" y="245"/>
+        </scene>
+        <!--断线提示-->
+        <scene sceneID="oz2-Is-ECa">
+            <objects>
+                <viewController title="断线提示" storyboardIdentifier="offlineTishi" id="HkO-Z9-1xt" customClass="OffLineViewController" customModule="_1talkAC" customModuleProvider="target" sceneMemberID="viewController">
+                    <view key="view" id="stv-rM-G4p">
+                        <rect key="frame" x="0.0" y="0.0" width="400" height="100"/>
+                        <autoresizingMask key="autoresizingMask"/>
+                        <subviews>
+                            <textField horizontalHuggingPriority="251" verticalHuggingPriority="750" fixedFrame="YES" setsMaxLayoutWidthAtFirstLayout="YES" translatesAutoresizingMaskIntoConstraints="NO" id="Iwp-zu-4aE">
+                                <rect key="frame" x="11" y="42" width="379" height="35"/>
+                                <textFieldCell key="cell" sendsActionOnEndEditing="YES" alignment="center" title="您当前适用版本过低，请升级到最新版本" id="E7Y-KJ-7Am">
+                                    <font key="font" size="13" name=".PingFangSC-Regular"/>
+                                    <color key="textColor" name="labelColor" catalog="System" colorSpace="catalog"/>
+                                    <color key="backgroundColor" name="controlColor" catalog="System" colorSpace="catalog"/>
+                                </textFieldCell>
+                            </textField>
+                            <button verticalHuggingPriority="750" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="sXN-cn-zE5">
+                                <rect key="frame" x="155" y="12" width="92" height="32"/>
+                                <buttonCell key="cell" type="push" title="我知道了" bezelStyle="rounded" alignment="center" borderStyle="border" imageScaling="proportionallyDown" inset="2" id="IZl-R0-hMz">
+                                    <behavior key="behavior" pushIn="YES" lightByBackground="YES" lightByGray="YES"/>
+                                    <font key="font" size="13" name=".PingFangSC-Regular"/>
+                                </buttonCell>
+                            </button>
+                        </subviews>
+                    </view>
+                    <connections>
+                        <outlet property="btn_commit" destination="sXN-cn-zE5" id="Du3-d2-rEy"/>
+                        <outlet property="tb_tishi" destination="Iwp-zu-4aE" id="C4S-Eu-Ukg"/>
+                    </connections>
+                </viewController>
+                <customObject id="yjI-ws-Mdb" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="2460" y="772"/>
+        </scene>
+        <!--Application-->
+        <scene sceneID="DY4-HQ-Qim">
+            <objects>
+                <application id="bIx-mg-22M" sceneMemberID="viewController">
+                    <menu key="mainMenu" title="Main Menu" systemMenu="main" id="Gyb-Zx-3zU">
+                        <items>
+                            <menuItem title="51talkAC" id="nPf-DE-WQu">
+                                <modifierMask key="keyEquivalentModifierMask"/>
+                                <menu key="submenu" title="51talkAC" systemMenu="apple" id="sON-kw-zCa">
+                                    <items>
+                                        <menuItem title="About 51TalkAC" id="P0B-Yx-8ou" userLabel="About 51TalkAC">
+                                            <modifierMask key="keyEquivalentModifierMask"/>
+                                        </menuItem>
+                                        <menuItem isSeparatorItem="YES" id="uQC-A2-ie1"/>
+                                        <menuItem title="Preferences…" keyEquivalent="," id="wVN-W5-WGV"/>
+                                        <menuItem isSeparatorItem="YES" id="KcM-1J-dl4"/>
+                                        <menuItem title="Services" id="izk-MJ-PFI">
+                                            <modifierMask key="keyEquivalentModifierMask"/>
+                                            <menu key="submenu" title="Services" systemMenu="services" id="OgD-Uc-Kds"/>
+                                        </menuItem>
+                                        <menuItem isSeparatorItem="YES" id="IA6-HO-GZA"/>
+                                        <menuItem title="Hide 51TalkAC" keyEquivalent="h" id="sI6-Eb-hrx"/>
+                                        <menuItem title="Hide Others" keyEquivalent="h" id="nOI-zK-47D">
+                                            <modifierMask key="keyEquivalentModifierMask" option="YES" command="YES"/>
+                                        </menuItem>
+                                        <menuItem title="Show All" id="d0n-0L-bMt">
+                                            <modifierMask key="keyEquivalentModifierMask"/>
+                                        </menuItem>
+                                        <menuItem isSeparatorItem="YES" id="ZdN-nu-MJJ"/>
+                                        <menuItem title="Quit 51TalkAC" keyEquivalent="q" id="alx-y6-0ZH">
+                                            <connections>
+                                                <action selector="performClose:" target="c5m-Ub-lZl" id="yeh-Ei-k6Z"/>
+                                            </connections>
+                                        </menuItem>
+                                    </items>
+                                </menu>
+                            </menuItem>
+                            <menuItem title="File" id="VOf-BK-NdM">
+                                <modifierMask key="keyEquivalentModifierMask"/>
+                                <menu key="submenu" title="File" id="va8-dm-AaQ">
+                                    <items>
+                                        <menuItem title="New" keyEquivalent="n" id="07d-Hh-eNC">
+                                            <connections>
+                                                <action selector="newDocument:" target="c5m-Ub-lZl" id="rJL-pp-wWJ"/>
+                                            </connections>
+                                        </menuItem>
+                                        <menuItem title="Open…" keyEquivalent="o" id="1T7-XA-vkd">
+                                            <connections>
+                                                <action selector="openDocument:" target="c5m-Ub-lZl" id="fhu-Cf-d7y"/>
+                                            </connections>
+                                        </menuItem>
+                                        <menuItem title="Open Recent" id="w1j-IU-XHy">
+                                            <modifierMask key="keyEquivalentModifierMask"/>
+                                            <menu key="submenu" title="Open Recent" systemMenu="recentDocuments" id="Rt6-1k-pl0">
+                                                <items>
+                                                    <menuItem title="Clear Menu" id="cCk-ya-24Y">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
+                                                        <connections>
+                                                            <action selector="clearRecentDocuments:" target="c5m-Ub-lZl" id="Hq6-Sp-1A0"/>
+                                                        </connections>
+                                                    </menuItem>
+                                                </items>
+                                            </menu>
+                                        </menuItem>
+                                        <menuItem isSeparatorItem="YES" id="ysH-mY-X2N"/>
+                                        <menuItem title="Close" keyEquivalent="w" id="sus-Um-ebg">
+                                            <connections>
+                                                <action selector="performClose:" target="c5m-Ub-lZl" id="xcj-jS-meS"/>
+                                            </connections>
+                                        </menuItem>
+                                        <menuItem title="Save…" keyEquivalent="s" id="xW2-cI-kPX">
+                                            <connections>
+                                                <action selector="saveDocument:" target="c5m-Ub-lZl" id="3f4-GX-Ohr"/>
+                                            </connections>
+                                        </menuItem>
+                                        <menuItem title="Save As…" keyEquivalent="S" id="xPd-SJ-8HW">
+                                            <connections>
+                                                <action selector="saveDocumentAs:" target="c5m-Ub-lZl" id="s7p-ML-rRA"/>
+                                            </connections>
+                                        </menuItem>
+                                        <menuItem title="Revert to Saved" id="8vw-0e-a6V">
+                                            <modifierMask key="keyEquivalentModifierMask"/>
+                                            <connections>
+                                                <action selector="revertDocumentToSaved:" target="c5m-Ub-lZl" id="U12-bc-7v5"/>
+                                            </connections>
+                                        </menuItem>
+                                        <menuItem isSeparatorItem="YES" id="chq-bJ-YIj"/>
+                                        <menuItem title="Page Setup…" keyEquivalent="P" id="1Wb-JN-CUC">
+                                            <modifierMask key="keyEquivalentModifierMask" shift="YES" command="YES"/>
+                                            <connections>
+                                                <action selector="runPageLayout:" target="c5m-Ub-lZl" id="y80-kf-R2q"/>
+                                            </connections>
+                                        </menuItem>
+                                        <menuItem title="Print…" keyEquivalent="p" id="4rn-Zm-aNT">
+                                            <connections>
+                                                <action selector="print:" target="c5m-Ub-lZl" id="X2Q-1e-xSR"/>
+                                            </connections>
+                                        </menuItem>
+                                    </items>
+                                </menu>
+                            </menuItem>
+                            <menuItem title="Edit" state="on" id="dvr-bY-nKS">
+                                <modifierMask key="keyEquivalentModifierMask"/>
+                                <menu key="submenu" title="Edit" id="qPt-gE-YCI">
+                                    <items>
+                                        <menuItem title="Undo" keyEquivalent="z" id="eoQ-Dh-RkN"/>
+                                        <menuItem title="Redo" keyEquivalent="Z" id="a3K-gv-xdY"/>
+                                        <menuItem isSeparatorItem="YES" id="8Da-2J-Nty"/>
+                                        <menuItem title="Cut" keyEquivalent="x" id="Htc-YF-qr3"/>
+                                        <menuItem title="Copy" keyEquivalent="c" id="YIN-E9-6qm"/>
+                                        <menuItem title="Paste" keyEquivalent="v" id="la1-CH-qQd"/>
+                                        <menuItem title="Paste and Match Style" keyEquivalent="V" id="0vN-iB-MXM">
+                                            <modifierMask key="keyEquivalentModifierMask" option="YES" command="YES"/>
+                                        </menuItem>
+                                        <menuItem title="Delete" id="jGr-Va-FE9">
+                                            <modifierMask key="keyEquivalentModifierMask"/>
+                                        </menuItem>
+                                        <menuItem title="Select All" keyEquivalent="a" id="Z0T-ie-uxZ"/>
+                                        <menuItem isSeparatorItem="YES" id="tsf-eZ-iVR"/>
+                                        <menuItem title="Find" id="i8Q-uD-3Lp">
+                                            <modifierMask key="keyEquivalentModifierMask"/>
+                                            <menu key="submenu" title="Find" id="PVL-OW-SPy">
+                                                <items>
+                                                    <menuItem title="Find…" tag="1" keyEquivalent="f" id="MZD-eR-WKE"/>
+                                                    <menuItem title="Find and Replace…" tag="12" keyEquivalent="f" id="F9K-Qe-saS">
+                                                        <modifierMask key="keyEquivalentModifierMask" option="YES" command="YES"/>
+                                                    </menuItem>
+                                                    <menuItem title="Find Next" tag="2" keyEquivalent="g" id="Ma1-4S-d4d"/>
+                                                    <menuItem title="Find Previous" tag="3" keyEquivalent="G" id="S9c-we-cWl"/>
+                                                    <menuItem title="Use Selection for Find" tag="7" keyEquivalent="e" id="a30-VD-t4S"/>
+                                                    <menuItem title="Jump to Selection" keyEquivalent="j" id="HML-iX-wGy"/>
+                                                </items>
+                                            </menu>
+                                        </menuItem>
+                                        <menuItem title="Spelling and Grammar" id="dJC-5n-6vP">
+                                            <modifierMask key="keyEquivalentModifierMask"/>
+                                            <menu key="submenu" title="Spelling" id="5dF-OP-oxl">
+                                                <items>
+                                                    <menuItem title="Show Spelling and Grammar" keyEquivalent=":" id="eZ3-Mg-g2o"/>
+                                                    <menuItem title="Check Document Now" keyEquivalent=";" id="zpc-v7-9YN"/>
+                                                    <menuItem isSeparatorItem="YES" id="TBd-zW-wUg"/>
+                                                    <menuItem title="Check Spelling While Typing" id="8rK-8t-mgS">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
+                                                    </menuItem>
+                                                    <menuItem title="Check Grammar With Spelling" id="eXR-Ov-LwE">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
+                                                    </menuItem>
+                                                    <menuItem title="Correct Spelling Automatically" id="01e-lO-qbg">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
+                                                    </menuItem>
+                                                </items>
+                                            </menu>
+                                        </menuItem>
+                                        <menuItem title="Substitutions" id="kEI-j0-uYP">
+                                            <modifierMask key="keyEquivalentModifierMask"/>
+                                            <menu key="submenu" title="Substitutions" id="gPg-Mh-fY7">
+                                                <items>
+                                                    <menuItem title="Show Substitutions" id="sYu-Va-yS1">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
+                                                    </menuItem>
+                                                    <menuItem isSeparatorItem="YES" id="QrG-oA-DMv"/>
+                                                    <menuItem title="Smart Copy/Paste" id="Fiu-Uy-nUR">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
+                                                    </menuItem>
+                                                    <menuItem title="Smart Quotes" id="Vvo-0r-tsG">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
+                                                    </menuItem>
+                                                    <menuItem title="Smart Dashes" id="mmP-4L-Uud">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
+                                                    </menuItem>
+                                                    <menuItem title="Smart Links" id="wAm-UZ-xT0">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
+                                                    </menuItem>
+                                                    <menuItem title="Data Detectors" id="ibb-2M-fvu">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
+                                                    </menuItem>
+                                                    <menuItem title="Text Replacement" id="nAe-4o-t0t">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
+                                                    </menuItem>
+                                                </items>
+                                            </menu>
+                                        </menuItem>
+                                        <menuItem title="Transformations" id="a6H-H9-jdr">
+                                            <modifierMask key="keyEquivalentModifierMask"/>
+                                            <menu key="submenu" title="Transformations" id="rMU-af-aqM">
+                                                <items>
+                                                    <menuItem title="Make Upper Case" id="kW7-Th-eIJ">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
+                                                    </menuItem>
+                                                    <menuItem title="Make Lower Case" id="WEe-Uc-sUx">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
+                                                    </menuItem>
+                                                    <menuItem title="Capitalize" id="PvB-sU-zUZ">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
+                                                    </menuItem>
+                                                </items>
+                                            </menu>
+                                        </menuItem>
+                                        <menuItem title="Speech" id="b4F-O6-972">
+                                            <modifierMask key="keyEquivalentModifierMask"/>
+                                            <menu key="submenu" title="Speech" id="9Ss-P9-TfU">
+                                                <items>
+                                                    <menuItem title="Start Speaking" id="ejO-1k-FT4">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
+                                                    </menuItem>
+                                                    <menuItem title="Stop Speaking" id="PLH-UO-9LH">
+                                                        <modifierMask key="keyEquivalentModifierMask"/>
+                                                    </menuItem>
+                                                </items>
+                                            </menu>
+                                        </menuItem>
+                                    </items>
+                                </menu>
+                            </menuItem>
+                            <menuItem title="View" id="DAe-yT-bsg">
+                                <modifierMask key="keyEquivalentModifierMask"/>
+                            </menuItem>
+                            <menuItem title="Window" id="cxX-xl-Ren">
+                                <modifierMask key="keyEquivalentModifierMask"/>
+                            </menuItem>
+                            <menuItem title="Help" id="1du-ED-3Tf">
+                                <modifierMask key="keyEquivalentModifierMask"/>
+                                <menu key="submenu" title="Help" systemMenu="help" id="3kj-OI-LuO">
+                                    <items>
+                                        <menuItem title="51TalkAC Help" keyEquivalent="?" id="gyg-WA-L1a"/>
+                                    </items>
+                                </menu>
+                            </menuItem>
+                        </items>
+                    </menu>
+                    <connections>
+                        <outlet property="delegate" destination="iAZ-f8-g8u" id="qco-ia-Tru"/>
+                    </connections>
+                </application>
+                <customObject id="c5m-Ub-lZl" userLabel="First Responder" customClass="NSResponder" sceneMemberID="firstResponder"/>
+                <customObject id="iAZ-f8-g8u" customClass="AppDelegate" customModule="_1talkAC" customModuleProvider="target"/>
+            </objects>
+            <point key="canvasLocation" x="89.5" y="6"/>
+        </scene>
+    </scenes>
+    <inferredMetricsTieBreakers>
+        <segue reference="t4I-mk-Gd5"/>
+    </inferredMetricsTieBreakers>
+</document>

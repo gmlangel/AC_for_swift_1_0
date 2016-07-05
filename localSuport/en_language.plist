@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>loginCon</key>
+	<dict>
+		<key>tb_NameText</key>
+		<string>Email</string>
+		<key>tb_PWDText</key>
+		<string>Password</string>
+		<key>btn_loginText</key>
+		<string>Login</string>
+		<key>btn_cancel</key>
+		<string>Cancel</string>
+		<key>btn_zhuceText</key>
+		<string>Sign up</string>
+		<key>btn_wangjiText</key>
+		<string>Forget Password</string>
+	</dict>
+	<key>classListV</key>
+	<dict>
+		<key>btn_huiyuanzhognxinText</key>
+		<string>会员中心</string>
+		<key>btn_wodekebiaoText</key>
+		<string>My Schedule</string>
+		<key>label_nolesson</key>
+		<string>No appointment course</string>
+	</dict>
+	<key>classListItem</key>
+	<dict>
+		<key>btn_joinRoomText</key>
+		<string>Enter</string>
+		<key>tb_courseTypeNameText</key>
+		<string>1v1</string>
+		<key>tb_detailsFormaterText1</key>
+		<string>%d人已预约</string>
+		<key>tb_detailsFormaterText2</key>
+		<string>Books：%@</string>
+		<key>tb_daojiashiTimeText1</key>
+		<string>%@, you can enter classroom</string>
+		<key>tb_daojiashiTimeText2</key>
+		<string>Course has ended</string>
+		<key>tb_daojiashiTimeText3</key>
+		<string>Curriculum has begun</string>
+		<key>tb_daojiashiTimeFormat1</key>
+		<string>%d hours %d minutes %d seconds</string>
+		<key>tb_daojiashiTimeFormat2</key>
+		<string>%d days %d hours %d minutes %d seconds</string>
+		<key>tb_teaAndCourse</key>
+		<string>%@:%@</string>
+	</dict>
+	<key>onetooneView</key>
+	<dict>
+		<key>channelInfo</key>
+		<string>Channel</string>
+		<key>userInfoBarLabel2</key>
+		<string>%@与%@视频通话中</string>
+		<key>userInfoBarLabel3</key>
+		<string>In video call</string>
+		<key>userInfoBarLabel1</key>
+		<string>Waiting for others</string>
+		<key>tb_userListPanelTitle</key>
+		<string>Current Users</string>
+		<key>btn_sendMSG</key>
+		<string>Send</string>
+	</dict>
+	<key>offLineCon</key>
+	<dict>
+		<key>label_offline</key>
+		<string>AC disconnected with the server, is trying to establish a connection ..</string>
+		<key>label_huti</key>
+		<string>Your account has been on the other device into the classroom, has automatic for you leave the classroom.</string>
+		<key>btn_commit</key>
+		<string>I see</string>
+	</dict>
+	<key>updateCon</key>
+	<dict>
+		<key>btn_update</key>
+		<string>Update</string>
+		<key>tb_updateInfo</key>
+		<string>You are currently using version too, please upgrade to the latest version</string>
+	</dict>
+	<key>tishiCon</key>
+	<dict>
+		<key>loginCon_netErr</key>
+		<string>Server maintenance,please try again later,(Code:%@)</string>
+		<key>loginCon_feikong</key>
+		<string>Account password can not be empty</string>
+	</dict>
+</dict>
+</plist>
